@@ -1,0 +1,26 @@
+[
+  {
+    "regionID": 1,
+    "regionDescription": "Eastern",
+    "country":10,
+    "state":30
+  },
+  {
+    "regionID": 2,
+    "regionDescription": "Western",
+    "country":4,
+    "state":60
+  },
+  {
+    "regionID": 3,
+    "regionDescription": "Northern",
+    "country":19,
+    "state":122
+  },
+  {
+    "regionID": 4,
+    "regionDescription": "Southern",
+    "country":12,
+    "state":74
+  }
+]
